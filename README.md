@@ -56,6 +56,16 @@ In today's competitive job market, having a well-crafted CV or resume is essenti
 
 **Why Use Canva?**: Canva is perfect for job seekers who want to create a visually appealing resume or CV without needing advanced design skills. Whether you're crafting a modern resume or a traditional one, Canva's tools make the process simple and effective.
 
+### 5. [JobEmerge](https://www.jobemerge.work)
+
+**Overview**: AI career copilot: job-fit test, 19-language resume translator, Markdown editor. One-time pricing, no auto-renewal.
+
+**Key Features**:
+
+- Job-fit test.
+- Resume translation across 19 languages.
+- Markdown resume editor.
+
 ## Additional Resources
 
 ### CV Writing Tips
